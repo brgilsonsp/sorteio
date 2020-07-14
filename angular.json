@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sorteio"
+    }
+  },
+  "defaultProject": "sorteio",
+  "cli": {
+    "analytics": false
+  }
 }
